@@ -12,9 +12,13 @@ assignments) automatically email everyone in the group with their assignment.
 Usage
 -----
 
-secret_santa santa_file
+::
 
-TODO
+    $ secret_santa [options] santa_file
+
+For more information run::
+
+    $ secret_santa --help
 
 License
 -------
