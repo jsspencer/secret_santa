@@ -6,10 +6,15 @@ someone else in the group (other than themselves) for whom to buy a gift.
 
 Compatible with Python 2.4-3.3.
 
+secret_santa can print the assignments to screen or (to maintain secrecy in the
+assignments) automatically email everyone in the group with their assignment.
+
 Usage
 -----
 
 secret_santa santa_file
+
+TODO
 
 License
 -------
